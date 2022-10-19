@@ -26,4 +26,4 @@ const fecha=()=>{
     let fecha = new Date() //Acá obtenemos la fecha con javascript
     return `${fecha.getDate()}-${fecha.getMonth() +1}-${fecha.getFullYear()}`
 }
-const apiclima = "b25139c039a810b533b1a12128b80214"
+const apiclima = "aca va tu key"
